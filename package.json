@@ -1,0 +1,24 @@
+{
+  "name": "obojobo-deploy",
+  "version": "1.0.0",
+  "description": "Reference project for deploying and customizing an Obojobo Next server",
+  "main": "index.js",
+  "private": true,
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "start": "pm2 startOrGracefulReload pm2.yaml --update-env",
+    "status": "pm2 status obojobo",
+    "stop": "pm2 stop obojobo",
+    "delete": "pm2 delete obojobo",
+    "logs": "pm2 logs",
+    "db-migrate": "node_modules/.bin/db-migrate --config node_modules/obojobo-express/config/db.json --migrations-dir node_modules/obojobo-express/migrations/"
+  },
+  "dependencies": {
+    "aws-secrets-environment": "^1.0.0",
+    "obojobo-chunks-question": "4.1.0",
+    "obojobo-chunks-question-bank": "4.1.0",
+    "obojobo-express": "4.1.0",
+    "obojobo-sections-assessment": "4.1.0",
+    "pm2": "^3.5.1"
+  }
+}

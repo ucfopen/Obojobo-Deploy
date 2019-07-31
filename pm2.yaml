@@ -6,7 +6,3 @@ apps:
     error_file: ./logs/error.log
     out_file: ./logs/out.log
     max_memory_restart: 120M
-    env:
-      # these can be set globally before running pm2!
-      # AWS_SECRETS_REGION: "us-east-1"
-      # AWS_SECRETS_KEY: "MyAWSSecrets" # secrets to load from AWS

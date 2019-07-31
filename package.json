@@ -11,10 +11,12 @@
     "stop": "pm2 stop obojobo",
     "delete": "pm2 delete obojobo",
     "logs": "pm2 logs",
-    "db-migrate": "node_modules/.bin/db-migrate --config node_modules/obojobo-express/config/db.json --migrations-dir node_modules/obojobo-express/migrations/"
+    "db-migrate": "yarn run withenv node_modules/.bin/db-migrate --config ./node_modules/obojobo-express/config/db.json --migrations-dir ./node_modules/obojobo-express/migrations/",
+    "withenv": "node -r ./node_modules/dotenv/config"
   },
   "dependencies": {
     "aws-secrets-environment": "^1.0.0",
+    "dotenv": "^8.0.0",
     "obojobo-chunks-question": "4.1.0",
     "obojobo-chunks-question-bank": "4.1.0",
     "obojobo-express": "4.1.0",

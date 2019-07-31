@@ -1,3 +1,5 @@
+require('dotenv').config() // load .env into the environment
+
 const loadAWSJSONSecretsIntoENV = require('aws-secrets-environment')
 
 // load AWSsecrets into process.env vars

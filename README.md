@@ -26,6 +26,7 @@ Thes can be defined any number of ways, via `.env`, `/etc/environment`, export, 
 * `DB_HOST`
 * `DB_NAME`
 * `DB_PORT`
+* `DB_SSL`
 * `OBO_COOKIE_SECRET`
 * `OBO_COOKIE_SECURE`
 * `OBO_LTI_KEYS_JSON`

@@ -556,9 +556,9 @@ cache-base@^1.0.1:
     union-value "^1.0.0"
     unset-value "^1.0.0"
 
-"caliper-js-public@git+https://github.com/IMSGlobal/caliper-js.git#v1.0.0":
+"caliper-js-public@https://github.com/IMSGlobal/caliper-js.git#v1.0.0":
   version "1.0.0"
-  resolved "git+https://github.com/IMSGlobal/caliper-js.git#9654f151deb29b1003e1473d058db67ea5dfef85"
+  resolved "https://github.com/IMSGlobal/caliper-js.git#9654f151deb29b1003e1473d058db67ea5dfef85"
   dependencies:
     caterpillar "^2.0.7"
     caterpillar-browser "^2.0.1"
@@ -1324,9 +1324,9 @@ expand-template@^2.0.3:
   resolved "https://registry.yarnpkg.com/expand-template/-/expand-template-2.0.3.tgz#6e14b3fcee0f3a6340ecb57d2e8918692052a47c"
   integrity sha512-XYfuKMvj4O35f/pOXLObndIRvyQ+/+6AhODh+OKWj9S9498pHHn/IMszH+gt0fBCRWMNfk1ZSp5x3AifmnI2vg==
 
-"express-ims-lti@git+https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5":
+"express-ims-lti@https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5":
   version "0.2.4"
-  resolved "git+https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5"
+  resolved "https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5"
   dependencies:
     ims-lti "https://github.com/ChristianMurphy/ims-lti.git#d535b4c4aff8a43775d3d9c1f2069f0593b7779f"
 
@@ -2817,6 +2817,14 @@ obojobo-document-engine@6.0.1, obojobo-document-engine@^6.0.1:
     sysend "^1.3.3"
     underscore "1.9.1"
     url-parse "^1.4.7 "
+
+obojobo-document-json-parser@6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-document-json-parser/-/obojobo-document-json-parser-6.0.1.tgz#7ed01f9b1598a4f60d99b1087eb469333fb3d065"
+  integrity sha512-Qfc3TlwnOgMPmkO87KbOacJZFHJ1ceQvZ2FdsA2g06D0Jx5Fks7ccx3WN8qhSSjPlxaQ5gyB3kT5tK1RxLdeCA==
+  dependencies:
+    obojobo-document-engine "^6.0.1"
+    xml-formatter "^1.1.0"
 
 obojobo-document-xml-parser@6.0.1, obojobo-document-xml-parser@^6.0.1:
   version "6.0.1"
@@ -4651,12 +4659,26 @@ ws@^6.0.0:
   dependencies:
     async-limiter "~1.0.0"
 
+xml-formatter@^1.1.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/xml-formatter/-/xml-formatter-1.2.0.tgz#cfbf2fd7250b5b77fcb484d9df4adf7ab30b3b2d"
+  integrity sha512-+7hrQv9ZmmDzbCchRdQIyL3Y+Twp35ZbuLDJRi3mV9KYJWKLcRI/fo8oVgbx4+GxI6MrZZhvVy/5i+f2g5fhUg==
+  dependencies:
+    xml-parser-xo "^2.1.1"
+
 xml-js@^1.0.2:
   version "1.6.11"
   resolved "https://registry.yarnpkg.com/xml-js/-/xml-js-1.6.11.tgz#927d2f6947f7f1c19a316dd8eea3614e8b18f8e9"
   integrity sha512-7rVi2KMfwfWFl+GpPg6m80IVMWXLRjO+PxTq7V2CDhoGak0wzYzFgUY2m4XJ47OGdXd8eLE8EmwfAmdjw7lC1g==
   dependencies:
     sax "^1.2.4"
+
+xml-parser-xo@^2.1.1:
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/xml-parser-xo/-/xml-parser-xo-2.1.3.tgz#4ea8eb856dfa4dd75c4ab54b251558de0adc1c61"
+  integrity sha1-TqjrhW36TddcSrVLJRVY3grcHGE=
+  dependencies:
+    debug "^2.2.0"
 
 xml2js@0.4.19, xml2js@~0.4.0:
   version "0.4.19"

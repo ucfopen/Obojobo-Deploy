@@ -34,6 +34,7 @@
     "obojobo-chunks-text": "6.0.1",
     "obojobo-chunks-youtube": "6.0.1",
     "obojobo-document-engine": "6.0.1",
+    "obojobo-document-json-parser": "6.0.1",
     "obojobo-document-xml-parser": "6.0.1",
     "obojobo-express": "6.0.1",
     "obojobo-lib-utils": "6.0.1",

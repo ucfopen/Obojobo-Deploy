@@ -3285,118 +3285,118 @@ object.pick@^1.3.0:
   dependencies:
     isobject "^3.0.1"
 
-obojobo-chunks-action-button@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-action-button/-/obojobo-chunks-action-button-7.0.0.tgz#31b5e10533a440d5b1144860eb27e83999c13d87"
-  integrity sha512-RGF49Vpt7OnRk8H7CdoPdaTM++s8vhasSF0OvOOdUdEHRQmOK6Tww+QoXj5sCaBC1IKZBM90vefzmFfo/iUHhA==
+obojobo-chunks-action-button@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-action-button/-/obojobo-chunks-action-button-7.0.1.tgz#d0e0dce7ff33206109e10549cda715d1426166cb"
+  integrity sha512-r4Wdvz59iZHOZkGbSJzfRASYRaSL864xVt3sh5MH6kjkUBajnhC0JjjFM6cMgt5OrzRSkZXcSwDQg5ZFtUXZuQ==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-break@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-break/-/obojobo-chunks-break-7.0.0.tgz#7f7244f61597f01704eeb8d976a270f10c860504"
-  integrity sha512-WtV8CTP01/DohV1D9/zkkJO1YnOwxiVjetjaPlMhNUh5dRv23BEA4HwLktbbfVd9EYptBC5XTQdKEJ/EAvzDHQ==
+obojobo-chunks-break@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-break/-/obojobo-chunks-break-7.0.1.tgz#03e8dbcd1cdfbb13c7cf613e46e62cea96877e6a"
+  integrity sha512-ETNxpfVJkoJK95Uvm/Lx/CLINFfUqq0NOkRHtBiON0FQwEZbSao9FIo146eHITtlBRTPCvY/Ni4C7n8yEes5rg==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-code@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-code/-/obojobo-chunks-code-7.0.0.tgz#62d47341fc501e06e417fa74604ecf91fb6692a7"
-  integrity sha512-AVGJW+jtk/P16nJ3yC3hJqlE7AG86N8VDw4LycruboJgLH7l46EaDnsQkv7KQ3c8Ac+aQ1cVNIGo4stDZ9jm3Q==
+obojobo-chunks-code@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-code/-/obojobo-chunks-code-7.0.1.tgz#d2e5b1bc5f7ab75ca7b54c60fe948c63e53f54c3"
+  integrity sha512-RuhjcjHKJ4sDQNxiI1SBAkCKSIddaDwvL25kkncjzwbrBGxO69W9Odese5J88bOL8d/rdj2FNI1u0rImtlvERw==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-figure@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-figure/-/obojobo-chunks-figure-7.0.0.tgz#f50da0863862905ac8e8935e8f551741fdb61e7b"
-  integrity sha512-zoLCxLX7h2roYdvqy2o7Smb6w2BkWFuJnZQBXSUJy/St3sqJzALm0eqipMMiX2fKiRPCQJ7nsQgUlPUW06nHLw==
+obojobo-chunks-figure@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-figure/-/obojobo-chunks-figure-7.0.1.tgz#d286858295ccbe69da8fb1dcfced98eb54405b21"
+  integrity sha512-7bEv+1TOkO6OJ5CqgCeGpaJLa90NLoQERVBfUE9P6IisIZwaAEM7iS2aL0qK/OqKFDoBVCY9e9NseDCIwBM6AA==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-heading@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-heading/-/obojobo-chunks-heading-7.0.0.tgz#cb8e2b15970d39d2ff2e66f07e145db472f0f90d"
-  integrity sha512-V2Js1mGl2fwsMYzDCnBZyejbssG/VHSAQX/2EBNZ5vOJ83paZVQ79t7EjzTGTskm8slWb0gRY0Yk4w00m2JUpQ==
+obojobo-chunks-heading@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-heading/-/obojobo-chunks-heading-7.0.1.tgz#8f8049715693fffbafa30d4170560be804bd9c57"
+  integrity sha512-KTde/g0isS2ECyipNrieFwAarMGpFlmpJRvud0vtVSAi9WbsfT721UOpGe9X5wsnTjpW46v/4xizUZeCbRRHgQ==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-html@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-html/-/obojobo-chunks-html-7.0.0.tgz#636d428d3fee77cc4e4b7c4133849b141208f070"
-  integrity sha512-ULfT8/dquXY0aHECa35Ez7aKyxErXOqdoo4SszpEf2bFChyxi7A5ZeegrrNxxOAWNhqeloOoS8ZbW7sxfasyaQ==
+obojobo-chunks-html@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-html/-/obojobo-chunks-html-7.0.1.tgz#0b4430a3252346821b62c0a71fea8fd39c682721"
+  integrity sha512-JZmdvVPGcBv9RCVRXkfAVzC6fF9WawsAoHOjA/ZjiG98pbMlyrmb346D6pbJco5sDmOvQ82hGJFs2ANkJHNO7w==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-iframe@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-iframe/-/obojobo-chunks-iframe-7.0.0.tgz#6ce201b3b80477b3b906beb5ec17ac212c3a4624"
-  integrity sha512-ELPAk+Gn5V/SfgnGph8gsDdCKo/ZAY8+Cn8ZFRqw7ae3ycmQ4myG/24Jn2xAPupkEeMvWzezmcNL58cVoMNO9Q==
+obojobo-chunks-iframe@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-iframe/-/obojobo-chunks-iframe-7.0.1.tgz#293c299158f58441d984364a7236b1314e903ed2"
+  integrity sha512-XrJZJ9kOY14duIw8zSePU56FnTG4SNc3sR2F41xg1aN+JRlLuU/vg0wHf8cp5wGgNFW6aW6cxl/jZBoR9D7DaA==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-list@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-list/-/obojobo-chunks-list-7.0.0.tgz#21975ffa77e2bc1773433929eec809ae94df99bc"
-  integrity sha512-tckMtfTtAudRSExqVxPpSat5ylgnBcfEKwJ+zTXaKnJMOW+aFOidtBaHn/3oHYmfFwmT0v0K8JufIpOUHVPlcQ==
+obojobo-chunks-list@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-list/-/obojobo-chunks-list-7.0.1.tgz#e031d41e8b1e0670c0b01e51eae7a6301b00120f"
+  integrity sha512-CZIc5HyqLVswIMhbrjJtM+SA6BQy2Bj7/fXYKp7fR121HWcBlaiYbWqpVJjWxY4WMeB5Qqw0L1CA6F1/niFLHA==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-math-equation@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-math-equation/-/obojobo-chunks-math-equation-7.0.0.tgz#b17cc1d6cb951d2fdbd3da910a5c2cf9ea3b09f4"
-  integrity sha512-OfRJqeWZhdRhdJEE6Q67o4Llf5SPGrcTS3wB1MMWlexZ56BAuk0JW7xEtTQyLU6Fg947L/S/HO0wjnLEuxv5jg==
+obojobo-chunks-math-equation@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-math-equation/-/obojobo-chunks-math-equation-7.0.1.tgz#f204a0daca9a3ac6a5708dec43b2fa364d8c368b"
+  integrity sha512-CTqNs/xL4fT3ucRQzSjshIHRGH+RJ7Eda16rEtt40dcnfiGTuQRr3Dy0kbXOXH4XfAdZW8rqA/Zwn6/f9cjplA==
   dependencies:
     katex "^0.11.1"
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-multiple-choice-assessment@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-multiple-choice-assessment/-/obojobo-chunks-multiple-choice-assessment-7.0.0.tgz#8a7ee20257e00a984c0b618d40569c93506a4270"
-  integrity sha512-0FODHKIbT9h3tPhgSlYfo3lqWBvx4VlFqhPniB0XV0KRIgrvOT0tf0JMOoXiPAaRja7UWrVDKzLOXFJEybRZXw==
+obojobo-chunks-multiple-choice-assessment@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-multiple-choice-assessment/-/obojobo-chunks-multiple-choice-assessment-7.0.1.tgz#0904894be430cf89d5cd996e4e7223f703ac69ad"
+  integrity sha512-0MXK1JIE9sLcx64FvLldfjEB4X280COwJcplVTfP4N4Ini18GiTa2XL1mTVCY+R8tmJVdydPIt7BO6ysS0ZphQ==
   dependencies:
-    obojobo-chunks-question "^7.0.0"
-    obojobo-chunks-text "^7.0.0"
-    obojobo-lib-utils "^7.0.0"
+    obojobo-chunks-question "^7.0.1"
+    obojobo-chunks-text "^7.0.1"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-question-bank@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-question-bank/-/obojobo-chunks-question-bank-7.0.0.tgz#57fc91e55f0a026a3692e649f03106a0ec371516"
-  integrity sha512-w3WjNcyN0rYAftZGRxljjjPXL3UncNgL0Bl3N3EQKUVUK80rHJpc8OjAT8pTajVmJsqYBXG6rKuoioFv0VRpqg==
+obojobo-chunks-question-bank@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-question-bank/-/obojobo-chunks-question-bank-7.0.1.tgz#dd8d35e78a89ee7f6606f9d60de0e766a9533add"
+  integrity sha512-6LOq5KeN4AVuUOozVp2JDcr68UVa5KCkClLW6VXg4AC7+Qo3kTtkD2e79n8IfFuzCs4rAxT/+MB6xK/g6+s7tQ==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-question@7.0.0, obojobo-chunks-question@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-question/-/obojobo-chunks-question-7.0.0.tgz#3d0b043e17d73ddc4f06fdaa8b1d00fc8e406d86"
-  integrity sha512-lleIV6j2YRwHggYgHgBA8GZ01QBhGkiAUAvqTdjZ+Wip2gznAm78fkKICLdY+i5uHC3hTcAwyys9ovHgbr/guw==
+obojobo-chunks-question@7.0.1, obojobo-chunks-question@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-question/-/obojobo-chunks-question-7.0.1.tgz#1ef24fa42171979da25dd5f0d0c8257be308ffc5"
+  integrity sha512-SZXO6lDd9Gxtax5m5uY28krAFZl3L/dXK3MquRxD/JaEE+THPbMI4dgm4lXpO6DxmmiAvYNR+w5T6Ozcn1xYKQ==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-table@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-table/-/obojobo-chunks-table-7.0.0.tgz#ecfddaf09c62b8fc7e2b068f0f6ac0e6b95ad4ed"
-  integrity sha512-rnwtyDyNBEPH4VcSLGVs4w8jV1idy6A10H3PYSdR9rGKxDGkv3GwOPd18XuPZFIAfZ5sntld52hpUs6VzULbdg==
+obojobo-chunks-table@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-table/-/obojobo-chunks-table-7.0.1.tgz#7281010e4b350cb367639420d847e306240b8f22"
+  integrity sha512-J5uCdIlvS3uPMFIym0cnD2gR7Sx/aOH5e5R7DbIF8RZ7sNtLMtQEV8Qn9VzZ0kOVfoG24XFWk2eTrBTbzkNZcA==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-text@7.0.0, obojobo-chunks-text@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-text/-/obojobo-chunks-text-7.0.0.tgz#7a7ec73ccd55e9cc73311f9e3b9ffb4663ca7c61"
-  integrity sha512-WBeErbYJTPwDlQwbjf3VbtBFO1bGcRIImK0jQeTQ6m/GV4FmzCAU1HDItS2JYVe0eyTs5AJWo4dI+QjXNzMSOQ==
+obojobo-chunks-text@7.0.1, obojobo-chunks-text@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-text/-/obojobo-chunks-text-7.0.1.tgz#e9e7e3a746643c838e69e66e45a7eb95b69d3e36"
+  integrity sha512-dPvPZfu5flgSwSv+Nq4U9HU1qr8gKh2MQrYldCPA8Mbdm+/iWIc/AN/vPJccux6zd4+qqqoX+82OoWzQKyJ6SQ==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-chunks-youtube@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-chunks-youtube/-/obojobo-chunks-youtube-7.0.0.tgz#8e69a8cf58b3a633a414b0aa867602723b61c580"
-  integrity sha512-DbaGxCg2UW48SOqJ2eaMoxPZJaOWg2Lf9koG6jP55FyUyX5nWUsGgfewml27iAQJcnFBOWsOFAIEiml4jZx0eg==
+obojobo-chunks-youtube@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-chunks-youtube/-/obojobo-chunks-youtube-7.0.1.tgz#6a8982e84b96a3c4c2fe5328bd3d372782cc687c"
+  integrity sha512-u+8QnVqL22nXAlOZGD1/QZfppjTIA/gjz0PmVYO+a2BhITeL8lhK9pXhCe+TL/J0Syo2SvNg8O4NascDZRtoYA==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-document-engine@7.0.0, obojobo-document-engine@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-document-engine/-/obojobo-document-engine-7.0.0.tgz#ddb1af2debcd9ac0e063278b083c4e72b523ca6a"
-  integrity sha512-XFtoGvTL8ooiix7ka8PcwcEYpoHO95Bp9sEr5TCaa25/C4aE1qhCO7S/Ucs6ogDF68WhiOnh9SLjY2z5JEbQqw==
+obojobo-document-engine@7.0.1, obojobo-document-engine@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-document-engine/-/obojobo-document-engine-7.0.1.tgz#5a02704ddb135f3b772b83db10b1e2248081e74b"
+  integrity sha512-Rj7FKn3PvgFgEgdelk1Fy35MjtoECz15gDM7Aor5z3ISEJtubH0HwEcEhEuBGfbmwXynVOIVzDSfKSDD3vJ4TQ==
   dependencies:
     backbone "^1.3.3"
     codemirror "^5.48.4"
@@ -3404,7 +3404,7 @@ obojobo-document-engine@7.0.0, obojobo-document-engine@^7.0.0:
     downloadjs "^1.4.7"
     immutable "^4.0.0-rc.12"
     katex "^0.11.1"
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
     prop-types "15.6.2"
     react "16.10.1"
     react-codemirror2 "^6.0.0"
@@ -3421,27 +3421,27 @@ obojobo-document-engine@7.0.0, obojobo-document-engine@^7.0.0:
     underscore "1.9.1"
     url-parse "^1.4.7 "
 
-obojobo-document-json-parser@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-document-json-parser/-/obojobo-document-json-parser-7.0.0.tgz#6dbd6e326ff9984e14a6ca20ec0b3e9aca161483"
-  integrity sha512-NyWyuSu2GHvUPFg424d3MFaISbPEXfg/zQ6mlenz7Pa8qETjZ5NpR64aD7nsWI2eR9xwbyoenKn+HvZyXl/JjQ==
+obojobo-document-json-parser@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-document-json-parser/-/obojobo-document-json-parser-7.0.1.tgz#5af0d95733e27a30e0b4d52104181daedb627685"
+  integrity sha512-3Sx82BQ6coNKYrji2HWH4foBsPaiYOQXhIsIkHZbJFF6P7jfQIniHkou0BLXLMGSbkr0S7Wo//BebnCy6sqYig==
   dependencies:
-    obojobo-document-engine "^7.0.0"
+    obojobo-document-engine "^7.0.1"
     xml-formatter "^1.1.0"
 
-obojobo-document-xml-parser@7.0.0, obojobo-document-xml-parser@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-document-xml-parser/-/obojobo-document-xml-parser-7.0.0.tgz#f7ec4b11e507867af02343c283055b93a3f9f0fb"
-  integrity sha512-ADepFw9BCVdqew1mVfc6hqHnOP2clMy1Gei0uweSJl43E2yRsqY2dlDy79EvVB0Rk1IFuLD5AHBpGYagwGjDBg==
+obojobo-document-xml-parser@7.0.1, obojobo-document-xml-parser@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-document-xml-parser/-/obojobo-document-xml-parser-7.0.1.tgz#ef9b5e286fdcde78e368bb225749effa700e345e"
+  integrity sha512-4LWEGNFjJ+2rG+4NtMAX6Y99iyqtNqLccLOqgJUbYob10CoVD6eprtLos/hoCRbR9UaMyrLz+YeYiwWDl3pAhw==
   dependencies:
     minimist "^1.2.0"
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
     xml-js "^1.0.2"
 
-obojobo-express@7.0.0, obojobo-express@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-express/-/obojobo-express-7.0.0.tgz#2c25a0c9f586c7feeffdf04c00f2d8866b2145a8"
-  integrity sha512-CQTrVJ8+ctqNq/J66i0Ey1i3eKKvxVrz7+pWfqNLU3z/+VbXpuOxdgcWqE+H8C9unBvcIvrJIkFTZNCG0RO1iA==
+obojobo-express@7.0.1, obojobo-express@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-express/-/obojobo-express-7.0.1.tgz#de949fdc8899da62412249ed42b8165b1b83844e"
+  integrity sha512-GXHazMHQdStCR+3Elz+cSo68XbWgUPmw/f34eTsqrgmaB9EiRnLa6AIMVj5mS5xnoEMbq3+C4OebXDm0+hDQgA==
   dependencies:
     body-parser "^1.19.0"
     caliper-js-public "https://github.com/IMSGlobal/caliper-js.git#v1.0.0"
@@ -3464,9 +3464,9 @@ obojobo-express@7.0.0, obojobo-express@^7.0.0:
     moment "^2.18.0"
     morgan "~1.9.1"
     multer "^1.4.2"
-    obojobo-document-engine "^7.0.0"
-    obojobo-document-xml-parser "^7.0.0"
-    obojobo-lib-utils "^7.0.0"
+    obojobo-document-engine "^7.0.1"
+    obojobo-document-xml-parser "^7.0.1"
+    obojobo-lib-utils "^7.0.1"
     pg-promise "^9.2.1"
     react-transition-group "^4.3.0"
     responsive-loader "^1.2.0"
@@ -3474,10 +3474,10 @@ obojobo-express@7.0.0, obojobo-express@^7.0.0:
     sharp "0.23.1"
     uuid "^3.3.3"
 
-obojobo-lib-utils@7.0.0, obojobo-lib-utils@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-lib-utils/-/obojobo-lib-utils-7.0.0.tgz#9848d489cc53a144c2e84e5ccc88dee29bc04748"
-  integrity sha512-azr+RlivAGC1CybzoECBc+G551iqXw+zLOEwYcsUx9gabvxnvWPgxE9cuO0DQ6Ot5hxbsAC0Fo8sRYq9JcV+UA==
+obojobo-lib-utils@7.0.1, obojobo-lib-utils@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-lib-utils/-/obojobo-lib-utils-7.0.1.tgz#9d9abfd6adad5b7028972392396801adce0b5ebd"
+  integrity sha512-C1T6bFD6a9R5c/2yO8DJiz//wZgh86ilFckXPoUZC29lzDmkLXoT1zHkg5/MDSxsv2aptPvXhlK0AsmG2TSCkQ==
   dependencies:
     db-migrate "^0.11.6"
     db-migrate-pg "^1.0.0"
@@ -3488,35 +3488,35 @@ obojobo-lib-utils@7.0.0, obojobo-lib-utils@^7.0.0:
     react-idle-timer "^4.2.9"
     react-transition-group "^4.3.0"
 
-obojobo-module-selector@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-module-selector/-/obojobo-module-selector-7.0.0.tgz#0704e71673477f5403d9f87d7f77ccae3c6c3282"
-  integrity sha512-9hvDQgObck51NLnjP23Ffs4i80F8G9X8Cl52MSFSGzHWMXPiLvFR3Vc2yAxiVTAnJvmvmV901RuLnt/crYVkqA==
+obojobo-module-selector@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-module-selector/-/obojobo-module-selector-7.0.1.tgz#3e59289d00b923360fc8f9040bb816943722beb2"
+  integrity sha512-g5ZL6zKTn9ETggQITZqRW8MGLve2yUU9BIFQTvpudvXpNXCKmgn0zsONcfl/ZTYCmu7COsxbYLb7ygpw+q3igA==
   dependencies:
     express "~4.17.1"
-    obojobo-express "^7.0.0"
-    obojobo-lib-utils "^7.0.0"
-    obojobo-repository "^7.0.0"
+    obojobo-express "^7.0.1"
+    obojobo-lib-utils "^7.0.1"
+    obojobo-repository "^7.0.1"
 
-obojobo-modules-module@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-modules-module/-/obojobo-modules-module-7.0.0.tgz#67a44d467dd21f6ee871c467d49623dc38a9246e"
-  integrity sha512-DnOejgXKOQbLYwxspSbsnkK50sJ95u9SfBYceYQ+Q1jo8IHBgzMrQBy1bQwaqzKCjD9yZKqQKUVfDkToMsTL/g==
+obojobo-modules-module@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-modules-module/-/obojobo-modules-module-7.0.1.tgz#144ef54e4bf7156f7e754d85f87739c48169b5ae"
+  integrity sha512-8DcFO+VwtbzzjuBujotg5OOCagIUGL21uR1EaTJACILvj5YSGkRnU6f00Zkq2QZCaLq4B8O5PA0gXqYAx9FY6g==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-pages-page@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-pages-page/-/obojobo-pages-page-7.0.0.tgz#6bb3cc542fca3f3a3b8b73405ed31c8b0974334e"
-  integrity sha512-CXB2R4/cwf2c7sy6eoR6pMwUX9Let84GEeD40L8/9fUB1j3v8CVLrqFG9KVBi2W7tJpdZdUYT04QGa/f8gN39A==
+obojobo-pages-page@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-pages-page/-/obojobo-pages-page-7.0.1.tgz#69be7e48457f63d4fe66a332a3eaa94f5cbbe107"
+  integrity sha512-MFqU5qXDBeeEMekgzpKXRfI0Q3THrNtzHLsvYz8A45KZN2nRD0+6Xdiea+ntw0NJL0sji2fq8I8K1SZVECuVyQ==
   dependencies:
-    obojobo-document-engine "^7.0.0"
-    obojobo-lib-utils "^7.0.0"
+    obojobo-document-engine "^7.0.1"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-repository@7.0.0, obojobo-repository@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-repository/-/obojobo-repository-7.0.0.tgz#b75b6be2ade98e9d9e60a46750fba81e3d01f7b3"
-  integrity sha512-dxXD+mBIZxZ/vbWbHkA7qAV1IFugO8wzsIEQnxdVA+Y8UXY/HQunW2Zy2MD1jr2c8eXIbt4lnvljn9rfzdMs6Q==
+obojobo-repository@7.0.1, obojobo-repository@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-repository/-/obojobo-repository-7.0.1.tgz#701518b6cf5c5d12ca7a5e7f6b72bf8e0004624d"
+  integrity sha512-EZZxKFhC76699k6ehwqzAdEGbo/fGkgogyBgXBeERWNJyWE1sB821T7ibvVBkg99U0l6KO/KFx/XF9/4HvKXWg==
   dependencies:
     express "~4.16.4"
     express-react-views-custom "https://github.com/ucfcdl/express-react-views.git#0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051"
@@ -3527,28 +3527,28 @@ obojobo-repository@7.0.0, obojobo-repository@^7.0.0:
     lodash.escaperegexp "^4.1.2"
     moment "2.24.0"
     object-assign "^4.1.1"
-    obojobo-express "^7.0.0"
-    obojobo-lib-utils "^7.0.0"
+    obojobo-express "^7.0.1"
+    obojobo-lib-utils "^7.0.1"
     react-modal "^3.8.2"
     react-redux "^6.0.1"
     redux "^4.0.1"
     redux-pack "^0.1.5"
     sass-mq "^5.0.1"
 
-obojobo-sections-assessment@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-sections-assessment/-/obojobo-sections-assessment-7.0.0.tgz#31f8a5a5eaa72c4aafccc0012205298263141aa1"
-  integrity sha512-40Em5pSo3uDX/kIZEDFmFHrCo0oXRJPgLEM6GzmZOmdIiRwlRO/ouplt9NCP65Us4YGlRzj/jBPHB9qo70Z59w==
+obojobo-sections-assessment@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-sections-assessment/-/obojobo-sections-assessment-7.0.1.tgz#03eaee22701e939baf596a0e564987fc80669a5b"
+  integrity sha512-Wvc7jKnJu7lChCni3PojlOqeb5ds3nQ8zLQKkYdlwYa7wSh6fYbU20cf5K1Hu/2azkaoZ22E7m2GIlccQb1EhA==
   dependencies:
-    obojobo-document-engine "^7.0.0"
-    obojobo-lib-utils "^7.0.0"
+    obojobo-document-engine "^7.0.1"
+    obojobo-lib-utils "^7.0.1"
 
-obojobo-sections-content@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/obojobo-sections-content/-/obojobo-sections-content-7.0.0.tgz#4124844761f1230952d319581a8f88a9d3bfea6e"
-  integrity sha512-yk7BQ9AH/vKtkRaq/KMUCuWl93jbhFoEuqId2eznMbrP32kDTD8KZXWK8Qezc5zGbrk0K7wyyre+DFZVExDNyA==
+obojobo-sections-content@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/obojobo-sections-content/-/obojobo-sections-content-7.0.1.tgz#dd50c5ae5a158dd4be9cb1bd31a3dd87c15d9b4c"
+  integrity sha512-vlo/N81+hRicUXvrE8OwKR4va1tRn2AS1jNIwa7RWSUm1lPzn/Fc5f/OQImB38EgCIUyj6+xKR4BciXzrQzquw==
   dependencies:
-    obojobo-lib-utils "^7.0.0"
+    obojobo-lib-utils "^7.0.1"
 
 on-finished@^2.3.0, on-finished@~2.3.0:
   version "2.3.0"

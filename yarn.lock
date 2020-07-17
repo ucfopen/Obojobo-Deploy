@@ -1119,9 +1119,10 @@ cache-base@^1.0.1:
     union-value "^1.0.0"
     unset-value "^1.0.0"
 
-"caliper-js-public@git+https://github.com/IMSGlobal/caliper-js.git#v1.0.0":
+"caliper-js-public@https://github.com/IMSGlobal/caliper-js.git#v1.0.0":
   version "1.0.0"
-  resolved "git+https://github.com/IMSGlobal/caliper-js.git#9654f151deb29b1003e1473d058db67ea5dfef85"
+  uid "9654f151deb29b1003e1473d058db67ea5dfef85"
+  resolved "https://github.com/IMSGlobal/caliper-js.git#9654f151deb29b1003e1473d058db67ea5dfef85"
   dependencies:
     caterpillar "^2.0.7"
     caterpillar-browser "^2.0.1"
@@ -1886,15 +1887,17 @@ expand-template@^2.0.3:
   resolved "https://registry.yarnpkg.com/expand-template/-/expand-template-2.0.3.tgz#6e14b3fcee0f3a6340ecb57d2e8918692052a47c"
   integrity sha512-XYfuKMvj4O35f/pOXLObndIRvyQ+/+6AhODh+OKWj9S9498pHHn/IMszH+gt0fBCRWMNfk1ZSp5x3AifmnI2vg==
 
-"express-ims-lti@git+https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5":
+"express-ims-lti@https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5":
   version "0.2.4"
-  resolved "git+https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5"
+  uid "20e4f025cf498b31bd21a981fe1af0707d2028b5"
+  resolved "https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5"
   dependencies:
     ims-lti "https://github.com/ChristianMurphy/ims-lti.git#d535b4c4aff8a43775d3d9c1f2069f0593b7779f"
 
-"express-react-views-custom@git+https://github.com/ucfcdl/express-react-views.git#0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051":
+"express-react-views-custom@https://github.com/ucfcdl/express-react-views.git#0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051":
   version "0.10.5"
-  resolved "git+https://github.com/ucfcdl/express-react-views.git#0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051"
+  uid "0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051"
+  resolved "https://github.com/ucfcdl/express-react-views.git#0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051"
   dependencies:
     babel-preset-env "^1.6.0"
     babel-preset-react "^6.24.1"
@@ -2873,9 +2876,9 @@ lodash.last@^3.0.0:
   integrity sha1-JC9mMRLdTG5jcoxgo8kJ0b2tvUw=
 
 lodash@^4.1.1, lodash@^4.17.10, lodash@^4.17.14, lodash@^4.17.4:
-  version "4.17.14"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.14.tgz#9ce487ae66c96254fe20b599f21b6816028078ba"
-  integrity sha512-mmKYbW3GLuJeX+iGP+Y7Gp1AiGHGbXHCOh/jZmrawMmsE7MS4znI3RL2FsjbqOyMayHInjOeykW7PEajUk1/xw==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-driver@^1.2.7:
   version "1.2.7"

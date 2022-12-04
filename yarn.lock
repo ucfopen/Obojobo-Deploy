@@ -1119,9 +1119,10 @@ cache-base@^1.0.1:
     union-value "^1.0.0"
     unset-value "^1.0.0"
 
-"caliper-js-public@git+https://github.com/IMSGlobal/caliper-js.git#v1.0.0":
+"caliper-js-public@https://github.com/IMSGlobal/caliper-js.git#v1.0.0":
   version "1.0.0"
-  resolved "git+https://github.com/IMSGlobal/caliper-js.git#9654f151deb29b1003e1473d058db67ea5dfef85"
+  uid "9654f151deb29b1003e1473d058db67ea5dfef85"
+  resolved "https://github.com/IMSGlobal/caliper-js.git#9654f151deb29b1003e1473d058db67ea5dfef85"
   dependencies:
     caterpillar "^2.0.7"
     caterpillar-browser "^2.0.1"
@@ -1571,9 +1572,9 @@ debug@^3.0, debug@^3.1, debug@^3.1.0, debug@^3.2.6:
     ms "^2.1.1"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.3.0:
   version "3.3.0"
@@ -1886,15 +1887,17 @@ expand-template@^2.0.3:
   resolved "https://registry.yarnpkg.com/expand-template/-/expand-template-2.0.3.tgz#6e14b3fcee0f3a6340ecb57d2e8918692052a47c"
   integrity sha512-XYfuKMvj4O35f/pOXLObndIRvyQ+/+6AhODh+OKWj9S9498pHHn/IMszH+gt0fBCRWMNfk1ZSp5x3AifmnI2vg==
 
-"express-ims-lti@git+https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5":
+"express-ims-lti@https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5":
   version "0.2.4"
-  resolved "git+https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5"
+  uid "20e4f025cf498b31bd21a981fe1af0707d2028b5"
+  resolved "https://github.com/ucfcdl/express-ims-lti.git#20e4f025cf498b31bd21a981fe1af0707d2028b5"
   dependencies:
     ims-lti "https://github.com/ChristianMurphy/ims-lti.git#d535b4c4aff8a43775d3d9c1f2069f0593b7779f"
 
-"express-react-views-custom@git+https://github.com/ucfcdl/express-react-views.git#0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051":
+"express-react-views-custom@https://github.com/ucfcdl/express-react-views.git#0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051":
   version "0.10.5"
-  resolved "git+https://github.com/ucfcdl/express-react-views.git#0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051"
+  uid "0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051"
+  resolved "https://github.com/ucfcdl/express-react-views.git#0ea22b3a3a5846adaae4b7bc86fe0e8f13a38051"
   dependencies:
     babel-preset-env "^1.6.0"
     babel-preset-react "^6.24.1"
